@@ -10,14 +10,14 @@
     {
       "color": "Blue",
       "sex": "Female",
-      "size": "large",
+      "size": "small",
       "cate": "pant",
       "image": "img/blue_p.png"
     },
     {
       "color": "Yellow",
       "sex": "male",
-      "size": "mid",
+      "size": "medium",
       "cate": "skirt",
       "image": "img/yellow_s.png"
     },
@@ -41,6 +41,90 @@
       "size": "large",
       "cate": "tShirt",
       "image": "img/pink_t.png"
+    },
+    {
+      "color": "Pink",
+      "sex": "male",
+      "size": "large",
+      "cate": "tShirt",
+      "image": "img/pink_t.png"
+    },
+    {
+      "color": "Yellow",
+      "sex": "male",
+      "size": "medium",
+      "cate": "tShirt",
+      "image": "img/yellow_t.png"
+    },
+    {
+      "color": "Pink",
+      "sex": "male",
+      "size": "small",
+      "cate": "pant",
+      "image": "img/pink_p.png"
+    },
+    {
+      "color": "Blue",
+      "sex": "Female",
+      "size": "medium",
+      "cate": "tShirt",
+      "image": "img/blue_t.png"
+    },
+    {
+      "color": "Yellow",
+      "sex": "male",
+      "size": "small",
+      "cate": "tShirt",
+      "image": "img/yellow_t.png"
+    },
+    {
+      "color": "Pink",
+      "sex": "male",
+      "size": "medium",
+      "cate": "skirt",
+      "image": "img/pink_s.png"
+    },
+    {
+      "color": "Blue",
+      "sex": "male",
+      "size": "large",
+      "cate": "tShirt",
+      "image": "img/blue_t.png"
+    },
+    {
+      "color": "Pink",
+      "sex": "Female",
+      "size": "small",
+      "cate": "skirt",
+      "image": "img/pink_s.png"
+    },
+    {
+      "color": "Pink",
+      "sex": "male",
+      "size": "medium",
+      "cate": "tShirt",
+      "image": "img/pink_t.png"
+    },
+    {
+      "color": "Pink",
+      "sex": "Female",
+      "size": "large",
+      "cate": "pant",
+      "image": "img/pink_p.png"
+    },
+    {
+      "color": "Yellow",
+      "sex": "male",
+      "size": "small",
+      "cate": "tShirt",
+      "image": "img/yellow_t.png"
+    },
+    {
+      "color": "Blue",
+      "sex": "Female",
+      "size": "medium",
+      "cate": "pant",
+      "image": "img/blue_p.png"
     }
   ]
 }
